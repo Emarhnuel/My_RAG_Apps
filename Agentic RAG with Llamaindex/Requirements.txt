@@ -1,0 +1,5 @@
+llama-index
+pandas
+datasets
+chromadb
+tqdm
